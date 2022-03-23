@@ -1,5 +1,5 @@
 # texture-for-colors
-Unofficial implementation of paper https://arxiv.org/abs/2105.01768
+This is an unofficial PyTorch implementation of the [Texture for Colors: Natural Representations of Colors Using Variable Bit-Depth Textures](https://arxiv.org/abs/2105.01768) paper by Shumeet Baluja.
 
 ## Requirements
 
@@ -23,4 +23,9 @@ To try demo run
 ```bash
 demo.py
 ```
-It will binarize all the images in directory `input_img` and save results in directory `output_img`.
+This command will binarize all the images in directory `input_img` and save results in directory `output_img`.
+
+## Example
+
+<p align="center"><img src="input_img/img_9.png" width="450" /><img src="output_img/encodedimg_9.png" width="450" /></p>
+Original image (left) and its encoded version (right)
