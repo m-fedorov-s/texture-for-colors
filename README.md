@@ -27,5 +27,5 @@ This command will binarize all the images in directory `input_img` and save resu
 
 ## Example
 
-<p align="center"><img src="input_img/img_9.png" width="450" /><img src="output_img/encodedimg_9.png" width="450" /></p>
+<p align="center"><img src="input_img/img_9.png" width="400" /><img src="output_img/encodedimg_9.png" width="400" /></p>
 Original image (left) and its encoded version (right)
