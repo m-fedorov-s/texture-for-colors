@@ -1,6 +1,8 @@
 # texture-for-colors
 This is an unofficial PyTorch implementation of the [Texture for Colors: Natural Representations of Colors Using Variable Bit-Depth Textures](https://arxiv.org/abs/2105.01768) paper by Shumeet Baluja.
 
+Demo is available at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wMnNanUIFbnRc3WYqqB_mEvD5nGqoJE3?usp=sharing)
+
 ## Requirements
 
 The repository is built on top of PyTorch `1.11.0' and Torchvision '0.12.0'
